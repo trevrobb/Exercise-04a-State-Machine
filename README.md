@@ -204,7 +204,7 @@ The final state of the file should be as follows (replacing the "Created by" inf
 
 Exercise for MSCH-C220
 
-THe first exercise for the 2D Platformer project, exploring AnimatedSprite and a simple state machine.
+The first exercise for the 2D Platformer project, exploring AnimatedSprite and a simple state machine.
 
 ## Implementation
 
